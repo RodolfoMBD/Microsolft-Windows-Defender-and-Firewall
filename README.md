@@ -1,4 +1,6 @@
 # Intro-To-Network-Traffic-Analysis
+<a href="file:///C:/Users/franc/OneDrive/Documentos/PRO%20Documents/Portfolio/Guided%20Projects/Enhancing%20Security%20with%20Microsoft%20Windows%20Defender%20and%20Firewall/IBM_ProjectCertificate.pdf"> <img src="https://img.shields.io/badge/Windows_Defender_%26_Firewall-gray?style=for-the-badge&logo=IBM" /> </a>
+
 ## Description
 
 This module introduces network traffic analysis in a general sense for both offensive and defensive security practitioners, covering principles of NTA and the usage of traffic analysis tools such as Wireshark and tcpdump.
